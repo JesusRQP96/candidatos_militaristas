@@ -1,5 +1,4 @@
-# candidatos_militaristas
-Script and data to replicate the results of the working paper "Determinantes do Voto em Candidatos Militaristas" (2019), by Marcio de Lucas Cunha Gomes.
+# Determinantes do Voto em Candidatos Militaristas
 
 A literatura sobre democratização angaria evidências de que transições formais para a democracia, em determinados contextos, não encerram a influência de lideranças ou instituições militares sobre a política. Em um sentido amplo, os recursos constituídos ao longo de um regime autoritário podem ser herdados por um subgrupo de políticos que competem em eleições, mas que mantém laços com corporações militares e estabelecem uma identificação de campanha baseada na memória do passado autoritário. O caso brasileiro, nesse sentido, têm se revelado um exemplo típico desse fenômeno, na medida em que uma bancada de parlamentares, identificada como "bancada da bala", utiliza-se das conexões com organizações militares e militarizadas -- como a polícia militar -- além do prestígio e confiança que parte do eleitorado tem nesses órgãos, para angariar expressivo sucesso eleitoral.      
 
