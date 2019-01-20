@@ -1,0 +1,69 @@
+Variável,Descrição
+cod_mun,Código do IBGE do Município
+ano,Ano
+total_votos,Total de Votos Válidos no Município
+total_pol,Total de Candidatos no Município
+votos_seg,Total de Votos de Candidatos Militaristas
+total_despesa,Despesa Total de Campanha do Município
+despesa_seg,Despesa Total de Campanha de Candidatos Militaristas do Município
+sd_votos,Desvio Padrão do Número de Votos dos Candidatos
+sd_despesa,Desvio Padrão da Despesa de Campanha dos Candidatos
+aptos,Número de Eleitores Aptos
+comparecimento,Número de Eleitores que Compareceram às Urnas
+abstencao,Total de Eleitos que se Abstiveram da Eleição
+brancos,Total de Votos Brancos no Município
+nulos,Total de Votos Nulos  no Município
+legenda,Total de Votos de Legenda  no Município
+partido_seg,Dummy para assinalar se Partido do Candidato Militaristas é igual ao do Prefeito Eleito
+n_pol_seg,Total de Candidatos Militaristas no Município
+elect_seg,Total de Candidatos Militaristas que se Elegeram no Município
+n_part_seg,Número de Políticos Eleitos que são do mesmo Partido do Candidato Militarista
+margem_vit,Margem de Vitória Eleitoral da disputa para Prefeito
+voto_med,Quantidade Média de Votos por Candidato
+despesa_med,Despesa de Campanha Média por Candidato
+prop_seg,Proporção de Candidatos Militaristas entre os Total de Candidatos
+politico_pop,Proporção de Candidatos por 100 mil habitantes
+seg_turno,Dummy para assinalar Existência ou não de Segundo Turno na Eleição
+agro,Contribuição do Setor Primário para o PIB municipal
+industria,Contribuição do Setor Secundário para o PIB municipal
+servicos,Contribuição do Setor Terciário para o PIB municipal
+pib_tot,PIB do município
+grande_regiao,Grande Região
+municipio,Nome do Município
+pib,PIB do município
+populacao,População do Município
+tx_pib,Taxa de Crescimento do PIB
+tx_pop,Taxa de Crescimento da População
+inpc,Indicador INPC da Grande Região na qual o Município está Inserido
+tx_inpc,Taxa de Crescimento do INPC
+homicidio,Taxa de Homicídio por 100 mil habitantes
+suicidio,Taxa de Suicídio por 100 mil habitantes
+armas,Proporção de Armas por 100 mil habitantes
+drogas,Taxa de Consumo de Entorpecentes por 100 mil habitantes
+alcool,Taxa de Consumo de Alcool por 100 mil habitantes
+jovem,Proporção de Jovens
+idosa,Proporção de Idosos
+mort_infantil,Taxa de Mortalidade Infantil do Município
+anos_estudo,Expectativa de Anos de Estudo da População + 18
+renda_pobre,Renda média dos 20% mais Pobres
+renda_rico,Renda média dos 20% mais Ricos
+renda_media,Renda Média do Município
+gini,Indicador Gini do Município
+idhm,Indicador IDH do Município
+freq_sup,Taxa de Frequência em Curso Superior do Município
+uf,UF
+X,
+pop_branca,Proporção de Brancos
+pop_homem,Proporção de Homens
+pop_mulher,Proporção de Mulheres
+pop_evangelica,População de Evangélicos
+pop_tot,População do Município
+prop_evangelico,Proporção de Evangélicos
+branco_nulo,Votos Brancos + Votos Nulos
+tx_env,Taxa de Evelhecimento do Município
+homem,População de Homens
+branca,População de Brancos
+str_economy,Estrutura da Economica
+pib_pc,PIB per capta do Município
+renda_dif,Diferença da Renda dos 20% mais Ricos e dos 20% mais Pobres
+reg,Grande Região
